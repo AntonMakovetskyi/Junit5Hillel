@@ -1,0 +1,16 @@
+авг 10, 2023 8:13:34 PM org.example.LoggerExample main
+SEVERE: severe lvl
+авг 10, 2023 8:13:34 PM org.example.LoggerExample main
+WARNING: warning lvl
+авг 10, 2023 8:13:34 PM org.example.LoggerExample main
+INFO: info lvl
+авг 10, 2023 8:13:34 PM org.example.LoggerExample main
+FINEST: finest lvl
+авг 10, 2023 8:14:04 PM org.example.LoggerExample main
+SEVERE: severe lvl
+авг 10, 2023 8:14:04 PM org.example.LoggerExample main
+WARNING: warning lvl
+авг 10, 2023 8:14:04 PM org.example.LoggerExample main
+INFO: info lvl
+авг 10, 2023 8:14:04 PM org.example.LoggerExample main
+FINEST: finest lvl
